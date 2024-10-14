@@ -1,0 +1,147 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MAI
+build_property.RootNamespace = MAI
+build_property.ProjectDir = C:\Users\luiza\Downloads\4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54\Sprint2\ControleDeClientes\SPRINT2\MAI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\luiza\Downloads\4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54\Sprint2\ControleDeClientes\SPRINT2\MAI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Cidade/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lkYWRlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Cidade/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lkYWRlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Cidade/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lkYWRlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Cidade/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lkYWRlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Cidade/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lkYWRlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Empresa/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Empresa/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Empresa/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Empresa/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Empresa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Estado/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Estado/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Estado/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Estado/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Estado/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Login/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Login/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Login/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Login/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Regiao/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaWFvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Regiao/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaWFvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Regiao/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaWFvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Regiao/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaWFvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Regiao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaWFvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiza/Downloads/4dff6797d4dc10f6a1ca0ce4137758af4fc315f3478e1301ba6307aca1adab54/Sprint2/ControleDeClientes/SPRINT2/MAI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uxn5mu1sph

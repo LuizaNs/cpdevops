@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\MAI\obj\Debug\net8.0\PubTmp\Out\MAI.exe
+C:\Users\user\source\repos\MAI\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\user\source\repos\MAI\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+C:\Users\user\source\repos\MAI\obj\Debug\net8.0\PubTmp\Out\MAI.dll
+C:\Users\user\source\repos\MAI\obj\Debug\net8.0\PubTmp\Out\MAI.deps.json
+C:\Users\user\source\repos\MAI\obj\Debug\net8.0\PubTmp\Out\MAI.runtimeconfig.json
+C:\Users\user\source\repos\MAI\obj\Debug\net8.0\PubTmp\Out\MAI.pdb
